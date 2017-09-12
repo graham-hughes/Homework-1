@@ -15,5 +15,5 @@ contract Fibonacci {
 	}
 
 	/* Add a fallback function to prevent contract payability and non-existent function calls */
-    function () {}
+	function () {}
 }
